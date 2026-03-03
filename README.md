@@ -1,6 +1,13 @@
-# About Me:
-3rd year Btech Undergrad<br>Building some cool apps <br>Exploring tech
+Hi 👋 I'm Pranav Panchwatkar
+===================================
 
+💻CS Student | 🤓Learner | 🌐Full Stack Web | 📱Mobile Apps
+--------------------------------------------------
+* 🌍  Based in Nagpur, India
+* 🖥️  See my portfolio at [prn4v.in](http://prn4v.in)
+* ✉️  You can contact me at [peter@pparker.com](mailto:pranavpanchwatkar@outlook.com)
+* 🧠  I'm learning a new System Design
+* 🤝  I'm open to collaborating on interesting projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-panchwatkar-7747a4341/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Pranavpanchwatkar@outlook.com) 
