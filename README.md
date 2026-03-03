@@ -5,7 +5,7 @@ Hi 👋 I'm Pranav Panchwatkar
 --------------------------------------------------
 * 🌍  Based in Nagpur, India
 * 🖥️  See my portfolio at [prn4v.in](http://prn4v.in)
-* ✉️  You can contact me at [peter@pparker.com](mailto:pranavpanchwatkar@outlook.com)
+* ✉️  You can contact me at [pranavpanchwatkar@outlook.com](mailto:pranavpanchwatkar@outlook.com)
 * 🧠  I'm learning a new System Design
 * 🤝  I'm open to collaborating on interesting projects
 
