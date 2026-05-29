@@ -1,4 +1,4 @@
-Hi 👋 I'm Pranav Panchwatkar
+👋 Hi I'm Pranav Panchwatkar
 ===================================
 
 💻CS Student | 🤓Learner | 🌐Full Stack Web | 📱Mobile Apps
